@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-A simple tic tac toe game developed in jquery as part of my FreeCodeCamp certification
+A simple tic tac toe game developed in jquery as part of my FreeCodeCamp certification. Play the game [here](http://alidaca.github.io/Tic-Tac-Toe)
 
 ## Credits
 
